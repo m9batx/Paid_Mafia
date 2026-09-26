@@ -6,27 +6,3 @@ is a simple mafia game where choosing number of players and after will be need t
 
 
 
-write now is works as full locally and the recommend arch to make it funcationlly with a server side is: 
-the Game
-│
-├── Local user database
-│   └── users.json
-│
-├── Machine identifier
-│   └── MAC-derived ID
-│
-├── Free attempt counter
-│   └── 2 attempts
-│
-├── License window
-│   └── license input
-│
-└── License verification
-    │
-    ├── GitHub
-    │   └── valid license list
-    │
-    └── License server/database
-        ├── license
-        ├── machine ID
-        └── usage count
